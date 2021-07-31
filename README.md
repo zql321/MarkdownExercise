@@ -34,6 +34,10 @@ What I did to explore data.
 3. Log transform on Z feature
 
 ### Modelling
+```
+def calc_distance(a,b):
+  return a+b
+```
 
 ### Model Evaluation
 
