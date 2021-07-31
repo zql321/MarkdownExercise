@@ -9,7 +9,7 @@ xxxxx
 ### Data
 
 ### Data Source
-* flower data (www.bbc.co.uk)
+* [flower data] (www.bbc.co.uk)
 * XXX data
 * YYY data
 
@@ -19,8 +19,8 @@ xxxxx
 ### Data Processing
 
 What I did to explore data.   
-Clean data. <br>
-Missing values.
+**Clean data**. <br>
+***Missing values***.
 
 ### Features
 
