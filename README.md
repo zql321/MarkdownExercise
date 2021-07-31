@@ -24,8 +24,8 @@ Missing values.
 
 ### Features
 
-1.StandardScaler on X feature
-2. MinMaxScaler on Y feature
+1.StandardScaler on X feature  
+2. MinMaxScaler on Y feature  
 3. Log transform on Z feature
 
 ### Modelling
