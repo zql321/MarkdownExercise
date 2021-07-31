@@ -9,7 +9,7 @@ xxxxx
 ### Data
 
 ### Data Source
-*[flower data](www.bbc.co.uk)
+* flower data (www.bbc.co.uk)
 * XXX data
 * YYY data
 
@@ -24,7 +24,7 @@ Missing values.
 
 ### Features
 
-1.StandardScaler on X feature  
+1. StandardScaler on X feature  
 2. MinMaxScaler on Y feature  
 3. Log transform on Z feature
 
